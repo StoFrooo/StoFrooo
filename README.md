@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**StoFrooo/StoFrooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year student at the AGH University of Science and Technology in Krakow in the field of Computer Science and Econometrics. I am still looking for my destiny but I am pretty sure it's IT. I feel best in data bases and frontend.
 
-Here are some ideas to get you started:
+Programming languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐⭐⭐⭐: Microsoft Office
+
+⭐⭐⭐: HTML, CSS, JS, SQL, Access, Relational Databases
+
+⭐⭐: C#
+
+⭐: C++, C, Java, Python
+
+👀 Currently I am looking for internships
