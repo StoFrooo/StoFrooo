@@ -4,13 +4,11 @@ I am a second-year student at the AGH University of Science and Technology in Kr
 
 Programming languages:
 
-⭐⭐⭐⭐: Microsoft Excel
+⭐⭐⭐⭐⭐: Microsoft Office
 
-⭐⭐⭐: Microsoft Office
+⭐⭐⭐: C#, HTML, CSS, JS, SQL, Access, Relational Databases
 
-⭐⭐: C#, HTML, CSS, JS, SQL, Access, Relational Databases
-
-⭐: C++, C, Java, Python
+⭐⭐: C++, C, Java, Python, R
 
 
 👀 Currently I am looking for internships
