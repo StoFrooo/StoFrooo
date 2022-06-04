@@ -11,6 +11,5 @@ Programming languages:
 ⭐⭐: C++, C, Java, Python, R
 
 
-👀 Currently I am looking for internships
 
 https://www.linkedin.com/in/patryk-g%C3%B3reczny-272615238/
