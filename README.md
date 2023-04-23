@@ -3,9 +3,9 @@ I am a third-year student at the AGH University of Science and Technology in Kra
 
 Programming languages and apps:
 
-⭐⭐⭐⭐⭐: Microsoft Office, C#
+⭐⭐⭐⭐⭐: C#, Python, Microsoft Office
 
-⭐⭐⭐: Python, HTML, CSS, JS, SQL, Access, Relational Databases, C++, C, Java, R
+⭐⭐⭐:HTML, CSS, JS, SQL, Access, Relational Databases, C++, C, Java, R
 
 
 https://www.linkedin.com/in/patryk-g%C3%B3reczny-272615238/
