@@ -5,7 +5,9 @@ Programming languages and apps:
 
 ⭐⭐⭐⭐⭐: C#, Python, Microsoft Office
 
-⭐⭐⭐:HTML, CSS, JS, SQL, Access, Relational Databases, C++, C, Java, R
+⭐⭐⭐⭐: SQL
+
+⭐⭐⭐:HTML, CSS, JS, Access, Relational Databases, C++, C, Java, R
 
 
 https://www.linkedin.com/in/patryk-g%C3%B3reczny-272615238/
