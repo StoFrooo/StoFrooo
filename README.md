@@ -1,5 +1,5 @@
 Hello! 👋
-I am a third-year student at the AGH University of Science and Technology in Krakow in the field of Computer Science and Econometrics. 
+I am a fourth-year (I've just started master's degree) student at the AGH University of Science and Technology in Krakow in the field of IT and Econometrics. 
 
 Programming languages and apps:
 
